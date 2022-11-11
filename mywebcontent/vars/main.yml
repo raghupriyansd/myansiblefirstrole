@@ -1,0 +1,5 @@
+---
+location: /var/www/
+web: httpd
+svc_name: httpd
+# vars file for mywebcontent
